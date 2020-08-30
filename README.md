@@ -3,14 +3,14 @@
 ### djslenderuk.co.uk - Website
 
 I wanted to provide a bit more of an insight to me as a DJ. 
-To get to know a bit about me, to hear my mixing skills, to follow me on social media and to contact me for any enquiries.
+To get to know a bit about me, to hear my mixing skills, to follow me on social media and to contact me for any enquiry's.
 
 
 ### UX & Design
 
 **Strategy**
 
-To be easily accessible, get an idea of me as a dj and to make enquiries.
+To be easily accessible, get an idea of me as a dj and to make enquiry's.
 
 **Scope**
 
@@ -26,15 +26,16 @@ something benefical for each user, whether to book me or to know more about me o
 
 **Skeleton**
 
-[Home wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/about.png)
+[Home wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/1#issue-688679213)
 
-[About wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/about.png)
+[About wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/2#issue-688679522)
 
-[Mixes wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/about.png)
 
-[Gallery wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/about.png)
+[Mixes wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/4#issue-688679828)
 
-[Enquiries wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/about.png)
+[Gallery wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/3#issue-688679705)
+
+[Enquiry's wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/5#issue-688680189)
 
 **Surface**
 
