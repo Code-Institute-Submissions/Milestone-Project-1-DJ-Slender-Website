@@ -56,13 +56,13 @@ I have seen a few sites and the common theme to make it look sleek is using a gr
 
 There wasnt an issue I didnt encounter throughout the whole project. The most mermorable ones were very simple fixes such as closing tags.
 
-An issue i had was .col-6-xs it wasnt working how i though it was meant to untill i spoke with a mentor (Tim) who directed me to Anna's bootstrap grid layout explaination on youtube.
+An issue i had was `.col-6-xs` it wasnt working how i though it was meant to untill i spoke with a mentor (Tim) who directed me to Anna's bootstrap grid layout explaination on youtube.
 
-It was then i realised that the i was working the wrong way around. Bootstrap starts with small screens first then to large.  so had to change it to .col-4-lg.
+It was then i realised that the i was working the wrong way around. Bootstrap starts with small screens first then to large.  so had to change it to `.col-4-lg.`
 
-The other issue was the z-index not being include in the navbar to stop the image from covering the navbar.
+The other issue was the `z-index` not being include in the navbar to stop the image from covering the navbar.
 
-.navbar-light .navbar-brand was not picking up the color so i had to use !important.
+`.navbar-light .navbar-brand` was not picking up the color so i had to use `!important`.
 
 
 ### Deployment
