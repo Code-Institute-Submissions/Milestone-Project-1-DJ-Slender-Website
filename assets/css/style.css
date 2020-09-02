@@ -195,4 +195,9 @@ footer {
     letter-spacing: 10px;
 }
 
+/*----------------------------------Enquiries-------*/
 
+.enquiries, .form-group {
+    font-family: lato;
+    color: #777777
+}
