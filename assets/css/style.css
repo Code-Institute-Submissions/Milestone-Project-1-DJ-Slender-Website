@@ -2,7 +2,6 @@
 
 /*--------------------------------- Inserts------*/
 
-
 hr {
   border-top: 1px solid #777777;
   width: 100%;
@@ -26,19 +25,6 @@ h5 {
 body, p {
   font-family: lato;
   color: #777777
-}
-
-#background-image {
-  background-image: url("../images/IMG_20180405_073952_958.jpg"); 
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  overflow: hidden;
-}
-
-#background-image div {
-  background-color: rgba(0, 0, 0, .6);
 }
 
 /*--------------------------------- Navbar------*/
@@ -77,38 +63,18 @@ nav {
 }
 
 /*----------------------------------btmtl-------*/
-
-#btmtl-heading {
-    margin: 5rem;
-
-}
-
-#info {
-    margin: 5rem;
-
-}
-
-.slendz-info {
-    margin-top: 5rem;
-}
-
-.follow-info {
-    margin-top: 10px;
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    max-height: 400px;
+    height: auto;
 }
 
 /*----------------------------------Mixes-------*/
 
-.slow-jams {
-    margin: 30px 0px 20px 20px;
-}
-
-.live-sets {
-    margin: 40px 0px 20px 20px;
-}
-
-.biography{
-    margin: 30px 0px 20px 20px;
-}
 
 /*----------------------------------Forms-------*/
 
@@ -116,7 +82,6 @@ nav {
     margin-bottom: 4rem;
     margin-top: 5rem;
 }
-
 
 /*----------------------------------Footer-------*/
 
@@ -141,15 +106,93 @@ footer {
 
 /*----------------------------------Gallery-------*/
 
-#photos-, img {
+/* #gallery-photos, img {
 
      width: 100%;
      height: 325px;
      }
 
 @media screen and(max-width: 800px){
-  #photos- {
+  #gallery-photos {
     height: 100%;
   }
-}
+} */
     
+.gallery-image {
+    width: 100%;
+    max-height: 325px;
+    vertical-align: baseline;
+    object-fit: cover;
+}
+
+/*----------------------------------About-------*/
+
+.bgimg-1 {
+    background-image: url(../images/IMG_20180405_073952_958.jpg);
+    min-height: 100%;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-2 {
+    background-image: url(../images/IMG-20180512-WA0004.jpg);
+    min-height: 400px;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-3 {
+    background-image: url(../images/IMG-20180512-WA0002.jpg);
+    min-height: 100%;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-4 {
+    background-image: url(../images/IMG-20190422-WA0003.jpg);
+    min-height: 400px;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-5 {
+    background-image: url(../images/20180713_205041.jpg);
+    min-height: 100%;
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.biography {
+    color: #777;
+    background-color:white;
+}
+
+.caption h2.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+
+
