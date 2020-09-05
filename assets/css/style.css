@@ -197,25 +197,25 @@ footer {
     background-size: cover;
 }
 
-#bgimg-1, #bgimg-6 {
-    background-image: url(../assets/images/aboutimages/DDTM.jpg);
+.bgimg-1, .bgimg-6 {
+    background-image: url("../images/aboutimages/ddtm.jpg");
 }
 
 
-#bgimg-2 {
-    background-image: url(../assets/images/aboutimages/rkdjsetup.jpg);
+.bgimg-2 {
+    background-image: url("../images/aboutimages/rkdjsetup.jpg");
 }
 
-#bgimg-3 {
-    background-image: url(../assets/images/aboutimages/aprilBH.jpg);
+.bgimg-3 {
+    background-image: url("../images/aboutimages/aprilbh.jpg");
 }
 
-#bgimg-4 {
-    background-image: url(../assets/images/aboutimages/ddjsxrk.jpg);
+.bgimg-4 {
+    background-image: url("../images/aboutimages/ddjsxrk.jpg");
 }
 
-#bgimg-5 {
-    background-image: url(../assets/images/aboutimages/rk4.jpg);
+.bgimg-5 {
+    background-image: url("../images/aboutimages/rk4.jpg");
 }
 
 .biography {
@@ -225,7 +225,7 @@ footer {
 
 .caption h2.border {
     background-color: #111;
-    color: #fff;
+    color: #555555;
     padding: 18px;
     font-size: 25px;
     letter-spacing: 10px;
@@ -246,3 +246,4 @@ footer {
 iframe {
     width: 100%;
 }
+
