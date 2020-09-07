@@ -67,7 +67,9 @@ nav {
 }
 
 /*----------------------------------Mixes-------*/
-
+#slow-jams, #live-sets {
+    background-color: #dcdcdc63
+}
 
 /*----------------------------------Forms-------*/
 
@@ -142,7 +144,9 @@ footer {
   animation-duration: 0.6s;
 }
 
-
+.modal-header {
+    border-bottom: 0 !important;
+}   
 
 @-webkit-keyframes zoom {
   from {-webkit-transform:scale(0)} 
@@ -177,6 +181,12 @@ footer {
   .modal-content {
     width: 100%;
   }
+}
+
+@media only screen and (max-width: 700px){
+.scale-down-mobile {
+        object-fit: scale-down !important;
+    }
 }
 
 /*----------------------------------About-------*/
