@@ -8,17 +8,10 @@ hr {
   margin: 5px 0;
 }
 
-h2 {
-  font-family: oswald,lato;
-  letter-spacing: 4px;
-  color: #555555;
-
-}
-
-h5 {
-  font-family: oswald,lato;
-  letter-spacing: 4px;
-  color: #555555;
+h1, h2, h5 {
+  font-family: oswald,lato !important;
+  letter-spacing: 4px !important;
+  color: #555555 !important;
 
 }
 
