@@ -71,20 +71,13 @@ nav {
     background-color: #dcdcdc63
 }
 
-/*----------------------------------Forms-------*/
-
-#form-header {    
-    margin-bottom: 4rem;
-    margin-top: 5rem;
-}
-
 /*----------------------------------Footer-------*/
 
 footer {
   height: 150px;
 }
 
-.social-media {
+.social-media, .site-info {
   text-align: center;
   padding-left: 0 !important;
   padding-right: 0 !important;
@@ -100,7 +93,6 @@ footer {
   padding: 5%;
   color: #777777
 }
-
 /*----------------------------------Gallery-------*/
 
 .gallery-image {
@@ -248,5 +240,10 @@ footer {
 
 iframe {
     width: 100%;
+}
+
+#form-header {    
+    margin-bottom: 4rem;
+    margin-top: 5rem;
 }
 
