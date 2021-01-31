@@ -10,7 +10,7 @@ hr {
 
 h1, h2, h5 {
   font-family: oswald,lato !important;
-  letter-spacing: 4px !important;
+  letter-spacing: .25rem !important;
   color: #555555 !important;
 
 }
@@ -28,7 +28,7 @@ nav {
 
 .navbar-brand {
   font-family: 'oswald', sans-serif !important;
-  font-size: 50px !important;
+  font-size: 3rem !important;
   margin: 0px !important;
   letter-spacing: 4px !important;
 
@@ -75,12 +75,14 @@ nav {
 
 footer {
   height: 150px;
+
 }
 
-.social-media, .site-info {
+.social-media, .copyright {
   text-align: center;
   padding-left: 0 !important;
   padding-right: 0 !important;
+  background-color: rgba(85,85,85.9) !important;
 }
 
 .social-media li {
@@ -156,7 +158,7 @@ footer {
   top: 15px;
   right: 35px;
   color: #f1f1f1;
-  font-size: 40px;
+  font-size: 2.5rem;
   font-weight: bold;
   transition: 0.3s;
 }
@@ -222,7 +224,7 @@ footer {
     background-color: #111;
     color: #555555;
     padding: 18px;
-    font-size: 25px;
+    font-size: 1.5rem;
     letter-spacing: 10px;
 }
 
@@ -246,4 +248,3 @@ iframe {
     margin-bottom: 4rem;
     margin-top: 5rem;
 }
-
