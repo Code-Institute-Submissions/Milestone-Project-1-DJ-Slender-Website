@@ -1,4 +1,4 @@
-# Milestone Project: User-Centric Frontend Development - Code Institute
+# Milestone Project 1: Code Institute
 ### djslenderuk.co.uk - Website
 
 ## Description
@@ -26,22 +26,24 @@ I used wireframes to help me decide how I was going to design my website, below 
  
 
 
-[Home wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/1#issue-688679213)
+[Home wireframe](README.files/slender_wireframes/home_wireframe)
 
-[About wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/2#issue-688679522)
+[About wireframe](README.files/slender_wireframes/about_wireframe)
 
-[Mixes wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/4#issue-688679828)
+[Event wireframe](README.files/slender_wireframes/event_wireframe)
 
-[Gallery wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/3#issue-688679705)
+[Gallery wireframe](README.files/slender_wireframes/gallery_wireframe)
 
-[Enquiries wireframe](https://github.com/Slendz/djslenderuk.co.uk/issues/5#issue-688680189)
+[Mixes wireframe](README.files/slender_wireframes/mixes_wireframe)
+
+[Enquiries wireframe](README.files/slender_wireframes/enquiries_wireframe)
 
 ## Features
 ---
 #### Current Features
 * Home - A brief overview of the site and its features.
 * About - Some insight in to me as a DJ.
-* Upcoming Events - Events I will be DJing at.
+* Events - Events I will be DJing at.
 * Gallery - A view of me in different enviroments, also with various musical artists, which opens into full sizes images when clicked.
 * Mixes - A variety of mixes, showcasing the varied styles of mixes and genres.
 * Enquiries - A form which allows users to make enquires or book me for an event.
@@ -49,6 +51,7 @@ I used wireframes to help me decide how I was going to design my website, below 
 #### Future Features
 * Events - A page which details the upcoming events that are in my calendar.
 * Social Media - A social media feed of my latest posts. 
+* Live Feed - Live streaming radio or social media (youtube, twitch, zoom, instagram)
 
 ## Technologies/Support Used
 ---
@@ -63,14 +66,20 @@ Below is a list of technologies I have used to create my website.
 * [Google Fonts](https://fonts.google.com/) - Used to import specific fonts I wanted to use on my website.
 * [Font Awesome](https://fontawesome.com/) - Used website to impor icons for my social links.
 * [Google Domains](https://domains.google.com/) - To link my domain to the git hub pages ip address.
+* [Adobe Color](https://color.adobe.com/create/color-wheel) - Color palette creator, used throughout my site.
+* [favicons](https://www.favicon.cc/) - Used to include in my header title.
 
 
 ## Testing
 ---
-I continuously tested my website throughout my project on a desktop and using my mobile. I used the web developer tools consistently to ensure my website was responsive, firstly at mobile screen sizes, and then at larger screen sizes. I used the device feature in the dev tools to test the build on all devices available.
+
+Before creating my website I created a table for things I thought I needed to test. Throught every stage I checked to see if they remained working.
+![Testing Table](README.files/checklist.png)
+
+I also continuously tested my website throughout my project on a desktop and using my mobile. I used the web developer tools consistently to ensure my website was responsive, firstly at mobile screen sizes, and then at larger screen sizes. I used the device feature in the dev tools to test the build on all devices available.
 The automatic checks of my HTML and CSS structure were done in [W3C Validator](https://validator.w3.org/#validate_by_input) to ensure there were no errors and they were both structured correctly. I repeated this process throughout the project. To ensure that my website was responsive across different browsers, I sent the link to my friends and family to identify any site problems. When image issues were identified I cross referenced this with others and found that not everyone experienced problems on their browsers. I then thought it was an issue with ‘github’ so i published the page which did not solve the issue which made me think it was a safari issue, however, that did not resolve the problem either. I struggled to solve that issue but using various problem solving exercises I hoped I would arrive at the issue. I'm under the impression it is a dated device software issue. My default browser is Google Chrome, I also tested the build on Safari, Firefox, IE, Edge and Opera, although these were done periodically. Currently, the website functions exactly as it should on all browsers.
 
-Probleming solving issues originally proved to be very difficult, the more I worked with Reuben the more clarity I had. If there was an error on my page I explored how I would identify the problem and where to go to locate the issue, using dev tools and making the changes in Git. I gained more confidence working closely with Reuben and it became easier to identify how to check the difference styles, how things would be presented if I changed things around or added color for example. Paying attention to the problems section in git allowed me to identify when there were tag issues.
+Problem solving issues originally proved to be very difficult, the more I worked with Reuben the more clarity I had. If there was an error on my page I explored how I would identify the problem and where to go to locate the issue, using dev tools and making the changes in Git. I gained more confidence working closely with Reuben and it became easier to identify how to check the difference styles, how things would be presented if I changed things around or added color for example. Paying attention to the problems section in git allowed me to identify when there were tag issues.
  
 
 ## Bugs
