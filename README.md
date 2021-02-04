@@ -80,7 +80,15 @@ I also continuously tested my website throughout my project on a desktop and usi
 The automatic checks of my HTML and CSS structure were done in [W3C Validator](https://validator.w3.org/#validate_by_input) to ensure there were no errors and they were both structured correctly. I repeated this process throughout the project. To ensure that my website was responsive across different browsers, I sent the link to my friends and family to identify any site problems. When image issues were identified I cross referenced this with others and found that not everyone experienced problems on their browsers. I then thought it was an issue with ‘github’ so i published the page which did not solve the issue which made me think it was a safari issue, however, that did not resolve the problem either. I struggled to solve that issue but using various problem solving exercises I hoped I would arrive at the issue. I'm under the impression it is a dated device software issue. My default browser is Google Chrome, I also tested the build on Safari, Firefox, IE, Edge and Opera, although these were done periodically. Currently, the website functions exactly as it should on all browsers.
 
 Problem solving issues originally proved to be very difficult, the more I worked with Reuben the more clarity I had. If there was an error on my page I explored how I would identify the problem and where to go to locate the issue, using dev tools and making the changes in Git. I gained more confidence working closely with Reuben and it became easier to identify how to check the difference styles, how things would be presented if I changed things around or added color for example. Paying attention to the problems section in git allowed me to identify when there were tag issues.
- 
+
+**Feedback**
+Tiana - "Great website to maniouver around, as somebody that is not IT literate and it is a very simple and straight forward website to use."
+Shareen - "Booking and upcoming events is very simple and not complex to get to or to fill out the form. Maybe a little more variety in the enquiries section or more regarding what i can achieve in this section."
+Elaine - "Love the colors and how clear it is."
+Ryan - "A nice website."
+Joshua - "Good website, however I would prefer options to live events, more social media interaction"
+
+Overall, the feeback was helpful as they all stated the website was simple and straight forward to use. It has room for improvement in regards to social media.
 
 ## Bugs
 ---
