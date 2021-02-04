@@ -69,6 +69,7 @@ Below is a list of technologies I have used to create my website.
 * [Adobe Color](https://color.adobe.com/create/color-wheel) - Color palette creator, used throughout my site.
 * [favicons](https://www.favicon.cc/) - Used to include in my header title.
 
+![color palette](README.files/color_palette.png)
 
 ## Testing
 ---
